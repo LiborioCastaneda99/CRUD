@@ -3,7 +3,7 @@
 		private $con;
 		private $dbhost="localhost";
 		private $dbuser="root";
-		private $dbpass="";
+		private $dbpass="Lc12345*";
 		private $dbname="bd_crud";
 		function __construct(){
 			$this->connect_db();
